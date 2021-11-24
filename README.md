@@ -30,7 +30,9 @@ Built and develop an interactive 2D Games Application as the user would be able 
 
 
 ASSIGNMENT 3 A 3D model in OpenGL [ASSIGNMENT 3 REPORT.pdf](https://github.com/kitkatlky/Fundamental-of-Computer-Graphics/files/7598603/ASSIGNMENT.3.REPORT.pdf)
-https://drive.google.com/file/d/1JVcETIvcOm30dJqe93JpZzKKOsOsMV1M/view?usp=sharing
+Full assignment --->>  https://drive.google.com/file/d/1JVcETIvcOm30dJqe93JpZzKKOsOsMV1M/view?usp=sharing
+Self-draw testing  --->>  https://drive.google.com/drive/folders/1_Sf3ExbOF0pPhnJXZB3qqOMZmaDnIneX?usp=sharing
+minion  --->> https://drive.google.com/drive/folders/1FsU83l_Ij4v1i75hGfmPAcKUhFS9lTuL?usp=sharing
 
 Description
 Assignment 3 aims to introduce you to the 3D environment setting in the OpenGL domain.
