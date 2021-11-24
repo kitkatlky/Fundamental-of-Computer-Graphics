@@ -4,6 +4,7 @@ The course will introduce the student the concept and theory of computer graphic
 
 
 ASSIGNMENT 1[DC REPORT.pdf](https://github.com/kitkatlky/Fundamental-of-Computer-Graphics/files/7598599/DC.REPORT.pdf)
+https://drive.google.com/file/d/1Zn9iO3occPfmvaEgjq7EP9eCP2GhkhhZ/view?usp=sharing
 
 Description
 Your first assignment is aimed to introduce the basic command of OpenGL and Pygame. 
@@ -18,7 +19,7 @@ Requirement
 
 
 ASSIGNMENT 2 My Bouncing Ball 2D Games [assignment 2 report.pdf](https://github.com/kitkatlky/Fundamental-of-Computer-Graphics/files/7598601/assignment.2.report.pdf)
-
+https://drive.google.com/file/d/1jEcSnbQv2YtDTlipuXxtu4W8WWqAdvED/view?usp=sharing
 
 Description
 Assignment 2 aims to apply your fundamental knowledge both in CG and GL to produce 2D bouncing ball game
@@ -29,6 +30,7 @@ Built and develop an interactive 2D Games Application as the user would be able 
 
 
 ASSIGNMENT 3 A 3D model in OpenGL [ASSIGNMENT 3 REPORT.pdf](https://github.com/kitkatlky/Fundamental-of-Computer-Graphics/files/7598603/ASSIGNMENT.3.REPORT.pdf)
+https://drive.google.com/file/d/1JVcETIvcOm30dJqe93JpZzKKOsOsMV1M/view?usp=sharing
 
 Description
 Assignment 3 aims to introduce you to the 3D environment setting in the OpenGL domain.
@@ -40,6 +42,7 @@ Built an interactive 3 layers’ hierarchy of 3D objects. You may use all standa
 
 
 MINI PROJECT Shooting Game [MINI PROJECT REPORT.pdf](https://github.com/kitkatlky/Fundamental-of-Computer-Graphics/files/7598604/MINI.PROJECT.REPORT.pdf)
+https://drive.google.com/file/d/1rV-aclQ6Dog998noAM2t9hvfHSrvuyi4/view?usp=sharing
 
 Description
 This project aims to apply your fundamental knowledge about computer graphics concepts and theory.  You may add or improve several futures of your second assignment (bouncing ball) to make it more interesting 2D games. 
